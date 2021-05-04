@@ -1,0 +1,31 @@
+// applicant
+{
+    "name": "Tempuser",
+    "email": "tsest@mail.com",
+    "password": "testing"
+}
+//applicant register
+{
+    "email": "tsest@mail.com",
+    "password": "testing"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmZmRmODE3ZTdkMzI3N2Y4ZWFkNGZlOSIsImlhdCI6MTYxMDQ3OTYzOSwiZXhwIjoxNjEwNDgzMjM5fQ.jtyH22HXrf-q28mpHjtGpY4IQJ2VvjrWA2eLjAODMVU
+
+5ffdf817e7d3277f8ead4fe9
+"skills": [],
+    "rating": 0,
+    "profile_image": "default-profile-image.jpg",
+    "_id": "5ffdf817e7d3277f8ead4fe9",
+    "name": "Tempuser",
+    "email": "tsest@mail.com",
+    "education": [],
+    "__v": 0
+
+
+    "skills": [],
+    "rating": 1,
+    "profile_image": "default-profile-image.jpg",
+    "name": "Tempuser",
+    "education": [],
+    "__v": 0

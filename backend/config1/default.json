@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tempuser:testing123@cluster0.2m128.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "app_mysecret"
+}
